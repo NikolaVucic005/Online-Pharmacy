@@ -1,0 +1,103 @@
+Paracetamol / Paracetamol 500mg - Contraindications: Hypersensitivity to paracetamol, severe liver damage.
+
+Brufen / Ibuprofen 400mg - Contraindications: Stomach ulcer, NSAID-induced asthma, pregnancy (3rd trimester).
+
+Aspirin / Acetylsalicylic acid 100mg - Contraindications: Hemorrhagic diathesis, stomach ulcer, asthma.
+
+Panklav / Amoxicillin + Clavulanic acid 875/125mg - Contraindications: Allergy to penicillins, history of jaundice with this drug.
+
+Bactrim / Sulfamethoxazole + Trimethoprim 400/80mg - Contraindications: Severe liver and kidney impairment, pregnancy, sulfonamide allergy.
+
+Tylol Hot / Paracetamol + Vitamin C + Phenylephrine - Contraindications: Severe hypertension, hyperthyroidism, closed-angle glaucoma.
+
+Ranisan / Ranitidine 150mg - Contraindications: Hypersensitivity to ranitidine, porphyria.
+
+Nimulid / Nimesulide 100mg - Contraindications: Liver damage, stomach ulcer, pregnancy and breastfeeding.
+
+Febricet / Paracetamol 500mg - Contraindications: Severe liver insufficiency, hypersensitivity.
+
+Klavocin / Amoxicillin + Clavulanic acid - Contraindications: Allergy to beta-lactam antibiotics, liver impairment.
+
+Hemomycin / Azithromycin 500mg - Contraindications: Allergy to macrolides, severe liver disease.
+
+Longacef / Cephalexin 500mg - Contraindications: Hypersensitivity to cephalosporins.
+
+Caffetin / Paracetamol + Caffeine + Propifenazone - Contraindications: Hypertension, glaucoma, liver disease.
+
+Glucophage / Metformin 850mg - Contraindications: Severe renal insufficiency, lactic acidosis.
+
+Tylol Baby / Paracetamol for children - Contraindications: Severe liver damage.
+
+Dexomen / Dexketoprofen 25mg - Contraindications: Stomach ulcer, active bleeding, pregnancy.
+
+Coldrex / Paracetamol + Phenylephrine + Caffeine - Contraindications: Hypertension, heart disease, pregnancy.
+
+Panadol / Paracetamol 500mg - Contraindications: Severe liver disease, allergy.
+
+Amoxil / Amoxicillin 500mg - Contraindications: Allergy to penicillins.
+
+Naxdom / Naproxen + Domperidone - Contraindications: Gastrointestinal bleeding, heart failure.
+
+Bensedin / Diazepam 5mg - Contraindications: Severe respiratory insufficiency, myasthenia gravis.
+
+Ospamox / Amoxicillin 500mg - Contraindications: Hypersensitivity to penicillins.
+
+Pyralvex / Oral solution - Contraindications: Open wounds in the mouth, salicylate allergy.
+
+Probiotic / Lactobacillus sp. - Contraindications: Immunosuppressive diseases.
+
+Enterofuryl / Nifuroxazide 200mg - Contraindications: Allergy to nitrofurans, children under 2 months.
+
+Linex / Probiotic - Contraindications: Allergy to any ingredient.
+
+Rinasek / Antihistamine + decongestant - Contraindications: Glaucoma, hypertension, pregnancy.
+
+Supradyn / Multivitamin - Contraindications: Hypervitaminosis A or D, hypercalcemia.
+
+Vitamin C / Ascorbic acid 500mg - Contraindications: Kidney oxalate stones, hemochromatosis.
+
+Folic acid / Vitamin B9 - Contraindications: Allergy to folic acid.
+
+Glavit / Multivitamin syrup - Contraindications: Hypervitaminosis, allergy to ingredients.
+
+Espumisan / Simethicone 40mg - Contraindications: Digestive tract obstruction.
+
+Bromazepam / Lexilium 3mg - Contraindications: Severe respiratory insufficiency, myasthenia gravis.
+
+Ranibos / Ranitidine 150mg - Contraindications: Hypersensitivity, porphyria.
+
+Rinomaris / Xylometazoline + Dexpanthenol - Contraindications: Glaucoma, dry nasal inflammation.
+
+Nimulid gel / Nimesulide - Contraindications: Open wounds, dermatitis, pregnancy.
+
+Fastum gel / Ketoprofen - Contraindications: Photosensitivity, open wounds, pregnancy.
+
+Acyclovir / Acyclovir 400mg - Contraindications: Hypersensitivity to acyclovir or valacyclovir.
+
+Flonivin / Fluoxetine 20mg - Contraindications: Concurrent use with MAO inhibitors.
+
+Lopril / Lisinopril 10mg - Contraindications: History of angioedema, pregnancy.
+
+Concor / Bisoprolol 5mg - Contraindications: Heart failure, bradycardia, asthma.
+
+Ampril / Ramipril 5mg - Contraindications: Pregnancy, angioedema, stenosed renal arteries.
+
+Amlopin / Amlodipine 5mg - Contraindications: Severe hypotension, cardiogenic shock.
+
+Plavix / Clopidogrel 75mg - Contraindications: Active bleeding, drug allergy.
+
+Zyllt / Clopidogrel 75mg - Contraindications: Same as Plavix – active bleeding, hypersensitivity.
+
+Trittico / Trazodone 150mg - Contraindications: Acute myocardial infarction, alcohol intoxication.
+
+Zoloft / Sertraline 50mg - Contraindications: Concurrent use with MAO inhibitors.
+
+Rivotril / Clonazepam 2mg - Contraindications: Severe respiratory insufficiency, glaucoma.
+
+Helpyrin / Metamizole + Caffeine - Contraindications: Agranulocytosis, hematopoietic disorders.
+
+Ladogal / Danazol 200mg - Contraindications: Pregnancy, breast cancer, liver insufficiency.
+
+Buscopan / Hyoscine butylbromide 10mg - Contraindications: Closed-angle glaucoma, megacolon.
+
+Rapten / Diclofenac potassium 50mg - Contraindications: Ulcer, bleeding, heart diseases.
