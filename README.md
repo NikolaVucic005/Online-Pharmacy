@@ -1,4 +1,4 @@
-Online Pharmacy
+# Online Pharmacy
 
 **Online Pharmacy** is a desktop application built with *Python (Tkinter)* that simulates a digital pharmacy.
 The app allows users to search for medicines, view medical information (indications, contraindications, dosage), and manage a shopping cart with price calculations.
