@@ -55,6 +55,6 @@ Contributions are welcome! Feel free to fork the repository, make improvements, 
 
 # Contact
 
-Created by Nikola Vucić. For questions or feedback, reach out via GitHub Discussions or Issues.
+Created by Nikola Vucic. For questions or feedback, reach out via GitHub Discussions or Issues.
 
 *Thanks for checking out Online Pharmacy!*
